@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorTextPrimaryDark">#5745a0</color>
+    <color name="colorTextCancel">#656775</color>
+    <color name="colorTextDecline">@color/colorTextCancel</color>
+    <color name="colorTextError">#ec5745</color>
+    <color name="colorTextPending">#f5a624</color>
+    <color name="colorTextSuccess">#5eaa46</color>
+</resources>
